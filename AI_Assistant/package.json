@@ -8,7 +8,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4",
     "react-speech-recognition": "^3.10.0",
-    "@shadcn/ui": "^1.0.0",
+    "npm view": "^1.0.0",
     "lucide-react": "^0.271.0"
   },
   "scripts": {
